@@ -5,8 +5,8 @@ Unit 2 - 數位電路與HDL語言Verilog andHDL coding
 Unit 3 - 由加法器開始實例理解數位設計與Pipelining
 Unit 4 - 多通道記憶體控制器 multiport virtual FIFO
 
-課程鏈結: https://chipskywalker.rakosell.com/zh/product/digital-logic-design-2436
-主網站(索取折扣碼): https://www.chipskywalker.com
+#課程鏈結: https://chipskywalker.rakosell.com/zh/product/digital-logic-design-2436
+#主網站(索取折扣碼): https://www.chipskywalker.com
 #FB 社團 https://www.facebook.com/groups/217033867946809
 
 本課程由單元1~3循序漸進,提示數位IC設計重點,
